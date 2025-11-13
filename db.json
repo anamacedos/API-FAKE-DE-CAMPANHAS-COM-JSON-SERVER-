@@ -61,6 +61,102 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2",
+      "nome": "Novembro Azul – Saúde do Homem e Prevenção do Câncer de Próstata",
+      "foto": "https://www.gov.br/dnocs/pt-br/assuntos/noticias/novembro-azul-cuidar-da-saude-e-um-ato-de-coragem-1/WhatsAppImage20251101at15.25.54.jpeg/@@images/4c771450-392a-4c95-af93-42a106093c06.jpeg",
+      "data_inicio": "2025/11/01",
+      "data_termino": "2025/11/31",
+      "descricao": "O Novembro Azul é um movimento mundial voltado à conscientização sobre a saúde do homem, especialmente a prevenção e o diagnóstico precoce do câncer de próstata — o segundo tipo mais comum entre os homens brasileiros. A campanha reforça a importância de consultas médicas regulares, exames de sangue (PSA) e toque retal, que permitem detectar alterações precocemente. Além disso, incentiva hábitos saudáveis, como alimentação balanceada, prática de atividades físicas e redução do consumo de álcool e tabaco.",
+      "publico_alvo": "Homens a partir de 45 anos e população em gera para concientização",
+      "tipo": "prevenção",
+      "tipo_unidade_disponivel": "hospitais, centros de diagnóstico e unidades básicas de saúde",
+      "dias_horario": "De segunda a sexta, das 9h às 17h",
+      "observacoes": "Trazer documento com foto e cartão SUS. Recomenda-se jejum de 8 horas para exame PSA.",
+      "cidades": [
+        {
+          "cidade": "São Paulo",
+          "unidades_disponiveis": [
+            "Hospital das Clínicas de São Paulo",
+            "UBS Vila Mariana",
+            "Centro de Saúde do Homem"
+          ]
+        },
+        {
+          "cidade": "Barueri",
+          "unidades_disponiveis":  [
+            "Hospital Municipal de Barueri Dr. Francisco Moran",
+            "UBS Engenho Novo",
+            "Centro Médico Masculino Alphaville"
+          ]
+        },
+        {
+          "cidade": "Itapevi",
+          "unidades_disponiveis": [
+            "Hospital Geral de Itapevi",
+            "UBS Vila Dr. Cardoso",
+            "Centro de Saúde da Família de Itapevi"
+          ]
+        },
+        {
+          "cidade": "Carapicuíba",
+          "unidades_disponiveis": [
+            "Hospital Geral de Carapicuíba",
+            "UBS Cohab V",
+            "Centro de Especialidades Médicas de Carapicuíba"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "nome": "Campanha Nacional de Multivacinação – Atualização da Caderneta de Vacinas",
+      "foto": "https://cidadeembudasartes.sp.gov.br/wp-content/uploads/2022/10/multivacinacao.jpg",
+      "data_inicio": "2025/04/01",
+      "data_termino": "2025/12/30",
+      "descricao": "A Campanha Nacional de Multivacinação tem como objetivo atualizar a caderneta de vacinação de crianças, adolescentes e adultos. Serão disponibilizadas vacinas de rotina, como poliomielite, sarampo, HPV, meningite, febre amarela, hepatite B, influenza, COVID-19 e outras. A atualização vacinal é essencial para a prevenção de doenças e para manter altas as coberturas vacinais no país.",
+      "publico_alvo": "Crianças, adolescentes e adultos com vacinas em atraso",
+      "tipo": "vacinação",
+      "tipo_unidade_disponivel": "postos de saúde e unidades básicas",
+      "dias_horario": "De segunda a sábado, das 8h às 17h",
+      "observacoes": "Levar documento de identidade e caderneta de vacinação. Crianças devem estar acompanhadas dos responsáveis.",
+      "cidades": [
+        {
+          "cidade": "São Paulo",
+          "unidades_disponiveis": ["UBS Sé", "UBS Vila Mariana", "AMA Vila Nova Cachoeirinha"]
+        },
+        {
+          "cidade": "Barueri",
+          "unidades_disponiveis": ["UBS Engenho Novo", "UBS Jardim Belval", "UBS Aldeia de Barueri"]
+        },
+        {
+          "cidade": "Jandira",
+          "unidades_disponiveis": ["UBS Jardim Lindomar", "UBS Vila Populina", "UBS Parque Santa Tereza"]
+        },
+        {
+          "cidade": "Itapevi",
+          "unidades_disponiveis": ["UBS Cohab II", "UBS Jardim Rainha", "UBS Vila Dr. Cardoso"]
+        },
+        {
+          "cidade": "Carapicuíba",
+          "unidades_disponiveis": ["UBS Cohab V", "UBS Novo Horizonte", "UBS Ariston"]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "nome": "Campanha de Combate à Dengue, Zika e Chikungunya",
+      "foto": "https://www.gov.br/secom/pt-br/assuntos/noticias/2025/11/governo-do-brasil-lanca-campanha-nacional-de-combate-a-dengue-zika-e-chikungunya/campanha-dengue-ms.jpg",
+      "data_inicio": "2025/08/01",
+      "data_termino": "2025/12/30",
+      "descricao": "A campanha tem o objetivo de eliminar criadouros do mosquito Aedes aegypti, transmissor da dengue, zika e chikungunya. Equipes municipais realizarão visitas domiciliares, mutirões de limpeza e ações educativas. Também serão disponibilizados pontos de coleta de entulhos e palestras sobre prevenção.",
+      "publico_alvo": "População em geral",
+      "tipo": "controle vetorial e prevenção de doenças",
+      "tipo_unidade_disponivel": "postos de saúde e praças públicas (mutirões)",
+      "dias_horario": "Segundas a domingos, das 8h às 18h",
+      "observacoes": "Evite acumular água em recipientes. Participe dos mutirões e permita a entrada dos agentes de saúde em sua residência."
     }
+    
   ]
 }
